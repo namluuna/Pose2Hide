@@ -1,0 +1,13 @@
+
+ButMau.png
+size: 245,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bộ bút màu
+  rotate: false
+  xy: 2, 2
+  size: 241, 192
+  orig: 241, 192
+  offset: 0, 0
+  index: -1

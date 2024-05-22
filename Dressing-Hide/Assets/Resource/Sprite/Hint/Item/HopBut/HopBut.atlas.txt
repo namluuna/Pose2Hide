@@ -1,0 +1,13 @@
+
+HopBut.png
+size: 225,107
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Túi bút
+  rotate: false
+  xy: 2, 2
+  size: 221, 103
+  orig: 221, 103
+  offset: 0, 0
+  index: -1

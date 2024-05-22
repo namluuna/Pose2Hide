@@ -1,0 +1,34 @@
+
+Nam43.png
+size: 873,534
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+From selection
+  rotate: true
+  xy: 785, 25
+  size: 87, 86
+  orig: 835, 488
+  offset: 364, 401
+  index: -1
+Layer 1
+  rotate: false
+  xy: 2, 114
+  size: 835, 418
+  orig: 835, 488
+  offset: 0, 60
+  index: -1
+Layer 4
+  rotate: true
+  xy: 2, 2
+  size: 110, 393
+  orig: 835, 488
+  offset: 421, 0
+  index: -1
+Layer 5
+  rotate: true
+  xy: 397, 2
+  size: 110, 386
+  orig: 835, 488
+  offset: 293, 8
+  index: -1

@@ -1,0 +1,20 @@
+
+nu9_2.png
+size: 901,451
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+than
+  rotate: true
+  xy: 2, 2
+  size: 447, 648
+  orig: 447, 648
+  offset: 0, 0
+  index: -1
+toc
+  rotate: false
+  xy: 652, 118
+  size: 247, 331
+  orig: 247, 331
+  offset: 0, 0
+  index: -1

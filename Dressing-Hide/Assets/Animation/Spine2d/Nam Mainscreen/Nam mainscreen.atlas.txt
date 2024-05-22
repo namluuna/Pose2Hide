@@ -1,0 +1,125 @@
+
+Nam mainscreen.png
+size: 691,533
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ban chan 1
+  rotate: false
+  xy: 510, 347
+  size: 134, 72
+  orig: 134, 72
+  offset: 0, 0
+  index: -1
+ban chan 2
+  rotate: false
+  xy: 435, 344
+  size: 73, 75
+  orig: 73, 75
+  offset: 0, 0
+  index: -1
+ban tay 1
+  rotate: true
+  xy: 355, 273
+  size: 59, 102
+  orig: 59, 102
+  offset: 0, 0
+  index: -1
+ban tay 2
+  rotate: true
+  xy: 355, 441
+  size: 90, 86
+  orig: 90, 86
+  offset: 0, 0
+  index: -1
+ban tay 2.2
+  rotate: false
+  xy: 355, 334
+  size: 78, 105
+  orig: 78, 105
+  offset: 0, 0
+  index: -1
+chan duoi 1
+  rotate: true
+  xy: 459, 211
+  size: 131, 223
+  orig: 131, 223
+  offset: 0, 0
+  index: -1
+chan duoi 2
+  rotate: false
+  xy: 194, 272
+  size: 159, 259
+  orig: 159, 259
+  offset: 0, 0
+  index: -1
+chan tren 1
+  rotate: false
+  xy: 326, 18
+  size: 115, 252
+  orig: 115, 252
+  offset: 0, 0
+  index: -1
+chan tren 2
+  rotate: true
+  xy: 443, 421
+  size: 110, 246
+  orig: 110, 246
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 216, 26
+  size: 106, 130
+  orig: 106, 130
+  offset: 0, 0
+  index: -1
+mat
+  rotate: true
+  xy: 646, 360
+  size: 59, 29
+  orig: 59, 29
+  offset: 0, 0
+  index: -1
+tay duoi 1
+  rotate: false
+  xy: 549, 19
+  size: 89, 116
+  orig: 89, 116
+  offset: 0, 0
+  index: -1
+tay duoi 2
+  rotate: true
+  xy: 549, 137
+  size: 72, 128
+  orig: 72, 128
+  offset: 0, 0
+  index: -1
+tay tren 1
+  rotate: true
+  xy: 2, 2
+  size: 154, 212
+  orig: 154, 212
+  offset: 0, 0
+  index: -1
+tay tren 2
+  rotate: false
+  xy: 443, 46
+  size: 104, 163
+  orig: 104, 163
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 2, 158
+  size: 190, 373
+  orig: 190, 373
+  offset: 0, 0
+  index: -1
+toc sau
+  rotate: true
+  xy: 194, 158
+  size: 112, 130
+  orig: 112, 130
+  offset: 0, 0
+  index: -1

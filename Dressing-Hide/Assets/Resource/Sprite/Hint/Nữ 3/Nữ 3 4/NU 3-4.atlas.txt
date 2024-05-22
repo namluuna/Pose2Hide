@@ -1,0 +1,27 @@
+
+NU 3-4.png
+size: 1006,381
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 916, 15
+  size: 88, 364
+  orig: 90, 368
+  offset: 1, 1
+  index: -1
+chaan
+  rotate: true
+  xy: 673, 35
+  size: 344, 241
+  orig: 356, 243
+  offset: 12, 1
+  index: -1
+full nguoi
+  rotate: false
+  xy: 2, 2
+  size: 669, 377
+  orig: 670, 378
+  offset: 0, 1
+  index: -1

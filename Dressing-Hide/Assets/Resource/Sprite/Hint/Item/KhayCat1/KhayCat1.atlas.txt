@@ -1,0 +1,13 @@
+
+KhayCat1.png
+size: 370,131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+khay dung cat
+  rotate: false
+  xy: 2, 2
+  size: 366, 127
+  orig: 366, 127
+  offset: 0, 0
+  index: -1

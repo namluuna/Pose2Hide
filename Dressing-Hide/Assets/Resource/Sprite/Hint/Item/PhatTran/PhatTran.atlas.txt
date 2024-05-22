@@ -1,0 +1,13 @@
+
+PhatTran.png
+size: 145,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Phất
+  rotate: false
+  xy: 2, 2
+  size: 141, 258
+  orig: 141, 258
+  offset: 0, 0
+  index: -1

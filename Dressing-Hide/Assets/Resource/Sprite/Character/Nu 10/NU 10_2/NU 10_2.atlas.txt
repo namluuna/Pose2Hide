@@ -1,0 +1,41 @@
+
+NU 10_2.png
+size: 741,341
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 2
+  size: 290, 337
+  orig: 290, 337
+  offset: 0, 0
+  index: -1
+Hair Behind
+  rotate: true
+  xy: 556, 51
+  size: 157, 179
+  orig: 157, 179
+  offset: 0, 0
+  index: -1
+Hand Above
+  rotate: true
+  xy: 487, 210
+  size: 129, 252
+  orig: 129, 252
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 294, 146
+  size: 191, 193
+  orig: 191, 193
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 294, 9
+  size: 135, 260
+  orig: 135, 260
+  offset: 0, 0
+  index: -1

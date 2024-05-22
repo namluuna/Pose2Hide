@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4347fb7080bb7f64bbbc9858dabdec24, type: 3}
+  m_Name: Female 9
+  m_EditorClassIdentifier: 
+  CharacterId: Female 9
+  ListOfAnswer:
+  - {fileID: 11400000, guid: 1cfea6d539101484aa9b17f3f8bc9b45, type: 2}
+  - {fileID: 11400000, guid: e8a92a61575921443a10a162c126d067, type: 2}
+  - {fileID: 11400000, guid: bce51c7e8348ff143a8f1cd3f1dbf712, type: 2}
+  ListOfAnime:
+  - {fileID: 11400000, guid: 5311fb7a6de188d4b8a901add2cb23e5, type: 2}
+  - {fileID: 11400000, guid: e6a443351c2ab3e4c9642185ccbf9f18, type: 2}
+  - {fileID: 11400000, guid: 6565db7281b3c2d48adee9f37bbafae4, type: 2}
+  ListSkinData: []

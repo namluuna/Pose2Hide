@@ -1,0 +1,13 @@
+
+CuonLen2.png
+size: 128,109
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cuc len 2
+  rotate: false
+  xy: 2, 2
+  size: 124, 105
+  orig: 124, 105
+  offset: 0, 0
+  index: -1

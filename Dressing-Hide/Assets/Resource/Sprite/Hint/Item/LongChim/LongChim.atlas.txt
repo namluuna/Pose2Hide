@@ -1,0 +1,13 @@
+
+LongChim.png
+size: 258,330
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+long chim
+  rotate: false
+  xy: 2, 2
+  size: 254, 326
+  orig: 254, 326
+  offset: 0, 0
+  index: -1

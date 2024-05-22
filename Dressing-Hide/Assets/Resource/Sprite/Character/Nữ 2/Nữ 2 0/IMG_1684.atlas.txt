@@ -1,0 +1,27 @@
+
+IMG_1684.png
+size: 997,326
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+From selection
+  rotate: false
+  xy: 902, 22
+  size: 41, 12
+  orig: 322, 899
+  offset: 177, 822
+  index: -1
+From selection2
+  rotate: false
+  xy: 902, 36
+  size: 93, 288
+  orig: 322, 899
+  offset: 197, 480
+  index: -1
+Layer 1
+  rotate: true
+  xy: 2, 2
+  size: 322, 898
+  orig: 322, 899
+  offset: 0, 0
+  index: -1

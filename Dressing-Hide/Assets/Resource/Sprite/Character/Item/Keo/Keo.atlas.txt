@@ -1,0 +1,13 @@
+
+Keo.png
+size: 85,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Kéo
+  rotate: false
+  xy: 2, 2
+  size: 81, 151
+  orig: 81, 151
+  offset: 0, 0
+  index: -1

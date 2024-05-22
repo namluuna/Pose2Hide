@@ -1,0 +1,111 @@
+
+cảnh sát1.png
+size: 1762,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2049
+  rotate: false
+  xy: 2, 8
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ban chan 1
+  rotate: true
+  xy: 1534, 69
+  size: 160, 68
+  orig: 160, 68
+  offset: 0, 0
+  index: -1
+ban chan 2
+  rotate: true
+  xy: 1534, 69
+  size: 160, 68
+  orig: 160, 68
+  offset: 0, 0
+  index: -1
+ban tay 1
+  rotate: true
+  xy: 1279, 65
+  size: 69, 109
+  orig: 69, 109
+  offset: 0, 0
+  index: -1
+ban tay 2
+  rotate: false
+  xy: 516, 25
+  size: 234, 180
+  orig: 234, 180
+  offset: 0, 0
+  index: -1
+chan duoi 1
+  rotate: false
+  xy: 1650, 207
+  size: 110, 313
+  orig: 110, 313
+  offset: 0, 0
+  index: -1
+chan duoi 2
+  rotate: true
+  xy: 752, 119
+  size: 110, 313
+  orig: 110, 313
+  offset: 0, 0
+  index: -1
+chan tren 1
+  rotate: true
+  xy: 752, 2
+  size: 115, 275
+  orig: 115, 275
+  offset: 0, 0
+  index: -1
+chan tren 2 Copy
+  rotate: true
+  xy: 1029, 3
+  size: 114, 248
+  orig: 114, 248
+  offset: 0, 0
+  index: -1
+tay duoi 1
+  rotate: true
+  xy: 1067, 136
+  size: 93, 161
+  orig: 93, 161
+  offset: 0, 0
+  index: -1
+tay duoi 2
+  rotate: true
+  xy: 1230, 136
+  size: 93, 161
+  orig: 93, 161
+  offset: 0, 0
+  index: -1
+tay tren 1
+  rotate: false
+  xy: 1393, 30
+  size: 139, 199
+  orig: 139, 199
+  offset: 0, 0
+  index: -1
+tay tren 2
+  rotate: false
+  xy: 1604, 6
+  size: 139, 199
+  orig: 139, 199
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 516, 231
+  size: 289, 565
+  orig: 289, 565
+  offset: 0, 0
+  index: -1
+than 2
+  rotate: true
+  xy: 1083, 231
+  size: 289, 565
+  orig: 289, 565
+  offset: 0, 0
+  index: -1

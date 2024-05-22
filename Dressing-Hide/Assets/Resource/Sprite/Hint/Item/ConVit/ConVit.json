@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"SlF06fFbB4aRLJrz9ABYyucMZ3E","spine":"3.8","images":"D:/KIS Workspace/pose-to-hide-arts/Pet","audio":""},"bones":[{"name":"root"}],"slots":[{"name":"Layer 0","bone":"root","attachment":"Layer 0"}],"skins":[{"name":"default","attachments":{"Layer 0":{"Layer 0":{"x":-10,"y":139,"width":189,"height":282}}}}],"animations":{"animation":{}}}

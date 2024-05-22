@@ -1,0 +1,20 @@
+
+nu9_3.png
+size: 1069,467
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+than
+  rotate: false
+  xy: 2, 2
+  size: 759, 463
+  orig: 760, 463
+  offset: 1, 0
+  index: -1
+toc
+  rotate: true
+  xy: 763, 157
+  size: 308, 304
+  orig: 308, 305
+  offset: 0, 1
+  index: -1

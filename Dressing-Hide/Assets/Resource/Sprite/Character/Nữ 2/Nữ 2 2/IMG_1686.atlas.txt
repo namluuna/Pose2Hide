@@ -1,0 +1,34 @@
+
+IMG_1686.png
+size: 886,437
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00000
+  rotate: false
+  xy: 591, 111
+  size: 113, 324
+  orig: 646, 441
+  offset: 0, 1
+  index: -1
+11111
+  rotate: false
+  xy: 706, 180
+  size: 178, 255
+  orig: 646, 441
+  offset: 304, 24
+  index: -1
+From selection
+  rotate: false
+  xy: 591, 91
+  size: 42, 18
+  orig: 42, 18
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 2, 2
+  size: 587, 433
+  orig: 646, 441
+  offset: 59, 8
+  index: -1

@@ -1,0 +1,13 @@
+
+VanXanh.png
+size: 446,543
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ván xanh3
+  rotate: false
+  xy: 2, 2
+  size: 442, 539
+  orig: 444, 539
+  offset: 2, 0
+  index: -1

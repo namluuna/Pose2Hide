@@ -1,0 +1,13 @@
+
+VongCho.png
+size: 135,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vong co cho cho
+  rotate: false
+  xy: 2, 2
+  size: 131, 136
+  orig: 131, 136
+  offset: 0, 0
+  index: -1

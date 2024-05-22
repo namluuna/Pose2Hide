@@ -1,0 +1,104 @@
+
+wife.png
+size: 1581,517
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2049
+  rotate: false
+  xy: 2, 3
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+ban chan 1
+  rotate: false
+  xy: 1002, 20
+  size: 148, 123
+  orig: 148, 123
+  offset: 0, 0
+  index: -1
+ban chan 2
+  rotate: false
+  xy: 1307, 25
+  size: 148, 121
+  orig: 148, 121
+  offset: 0, 0
+  index: -1
+ban tay 1
+  rotate: false
+  xy: 1493, 130
+  size: 83, 97
+  orig: 83, 97
+  offset: 0, 0
+  index: -1
+ban tay 2
+  rotate: true
+  xy: 1403, 152
+  size: 75, 88
+  orig: 75, 88
+  offset: 0, 0
+  index: -1
+chan 1
+  rotate: false
+  xy: 678, 49
+  size: 138, 466
+  orig: 138, 466
+  offset: 0, 0
+  index: -1
+chan 2
+  rotate: false
+  xy: 516, 31
+  size: 160, 484
+  orig: 160, 484
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: true
+  xy: 1457, 61
+  size: 67, 72
+  orig: 67, 72
+  offset: 0, 0
+  index: -1
+tay duoi 1
+  rotate: false
+  xy: 1152, 2
+  size: 153, 144
+  orig: 153, 144
+  offset: 0, 0
+  index: -1
+tay duoi 2
+  rotate: true
+  xy: 1403, 423
+  size: 92, 176
+  orig: 92, 176
+  offset: 0, 0
+  index: -1
+tay tren 1
+  rotate: true
+  xy: 818, 3
+  size: 140, 182
+  orig: 140, 182
+  offset: 0, 0
+  index: -1
+tay tren 2
+  rotate: false
+  xy: 1403, 229
+  size: 156, 192
+  orig: 156, 192
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 1140, 148
+  size: 261, 367
+  orig: 261, 367
+  offset: 0, 0
+  index: -1
+vay
+  rotate: false
+  xy: 818, 145
+  size: 320, 370
+  orig: 320, 370
+  offset: 0, 0
+  index: -1

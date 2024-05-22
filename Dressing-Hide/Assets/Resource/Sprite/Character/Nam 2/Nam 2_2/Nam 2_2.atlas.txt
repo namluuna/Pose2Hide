@@ -1,0 +1,62 @@
+
+Nam 2_2.png
+size: 1311,398
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ao 1
+  rotate: true
+  xy: 1138, 25
+  size: 106, 160
+  orig: 106, 160
+  offset: 0, 0
+  index: -1
+ao 2
+  rotate: false
+  xy: 1138, 133
+  size: 114, 263
+  orig: 114, 263
+  offset: 0, 0
+  index: -1
+ao sau1
+  rotate: true
+  xy: 1254, 278
+  size: 55, 40
+  orig: 55, 40
+  offset: 0, 0
+  index: -1
+chan 1
+  rotate: true
+  xy: 617, 28
+  size: 368, 353
+  orig: 368, 353
+  offset: 0, 0
+  index: -1
+chan 2
+  rotate: false
+  xy: 972, 7
+  size: 164, 389
+  orig: 164, 389
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 2, 2
+  size: 613, 394
+  orig: 613, 394
+  offset: 0, 0
+  index: -1
+toc 1
+  rotate: false
+  xy: 1254, 225
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+toc 2
+  rotate: false
+  xy: 1254, 335
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+Character_Nữ 1_Pose 1.png
+size: 885,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ao
+  rotate: true
+  xy: 687, 30
+  size: 105, 95
+  orig: 105, 95
+  offset: 0, 0
+  index: -1
+ban chan 1
+  rotate: true
+  xy: 231, 21
+  size: 47, 84
+  orig: 47, 84
+  offset: 0, 0
+  index: -1
+ban chan 2
+  rotate: true
+  xy: 784, 16
+  size: 47, 84
+  orig: 47, 84
+  offset: 0, 0
+  index: -1
+chan duoi 1
+  rotate: true
+  xy: 2, 13
+  size: 55, 227
+  orig: 55, 227
+  offset: 0, 0
+  index: -1
+chan duoi 2
+  rotate: true
+  xy: 655, 214
+  size: 54, 227
+  orig: 54, 227
+  offset: 0, 0
+  index: -1
+chan tren 1
+  rotate: true
+  xy: 327, 8
+  size: 76, 237
+  orig: 76, 237
+  offset: 0, 0
+  index: -1
+chan tren 2
+  rotate: true
+  xy: 547, 137
+  size: 75, 237
+  orig: 75, 237
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 566, 20
+  size: 119, 115
+  orig: 119, 115
+  offset: 0, 0
+  index: -1
+day ao
+  rotate: false
+  xy: 784, 65
+  size: 91, 60
+  orig: 91, 60
+  offset: 0, 0
+  index: -1
+mat
+  rotate: false
+  xy: 687, 2
+  size: 58, 26
+  orig: 58, 26
+  offset: 0, 0
+  index: -1
+tay 1
+  rotate: true
+  xy: 2, 70
+  size: 47, 323
+  orig: 47, 323
+  offset: 0, 0
+  index: -1
+tay 2
+  rotate: true
+  xy: 330, 222
+  size: 46, 323
+  orig: 46, 323
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 2, 119
+  size: 149, 326
+  orig: 149, 326
+  offset: 0, 0
+  index: -1
+toc mai
+  rotate: true
+  xy: 786, 127
+  size: 85, 97
+  orig: 85, 97
+  offset: 0, 0
+  index: -1
+vay
+  rotate: false
+  xy: 330, 86
+  size: 215, 134
+  orig: 215, 134
+  offset: 0, 0
+  index: -1

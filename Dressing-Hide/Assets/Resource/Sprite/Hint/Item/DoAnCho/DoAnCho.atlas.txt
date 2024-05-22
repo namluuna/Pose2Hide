@@ -1,0 +1,13 @@
+
+DoAnCho.png
+size: 233,206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+do an cho cho
+  rotate: false
+  xy: 2, 2
+  size: 229, 202
+  orig: 229, 202
+  offset: 0, 0
+  index: -1

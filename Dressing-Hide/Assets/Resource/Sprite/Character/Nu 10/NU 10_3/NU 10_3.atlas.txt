@@ -1,0 +1,55 @@
+
+NU 10_3.png
+size: 925,482
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 163
+  size: 642, 317
+  orig: 642, 317
+  offset: 0, 0
+  index: -1
+Bow Tie Behind
+  rotate: false
+  xy: 529, 34
+  size: 62, 127
+  orig: 62, 127
+  offset: 0, 0
+  index: -1
+Hair Behind
+  rotate: false
+  xy: 646, 11
+  size: 168, 181
+  orig: 168, 181
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 342, 21
+  size: 140, 185
+  orig: 140, 185
+  offset: 0, 0
+  index: -1
+Leg Above
+  rotate: false
+  xy: 2, 2
+  size: 338, 159
+  orig: 338, 159
+  offset: 0, 0
+  index: -1
+Skirt Above
+  rotate: true
+  xy: 816, 9
+  size: 183, 106
+  orig: 183, 106
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 646, 194
+  size: 286, 277
+  orig: 286, 277
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+nam41.png
+size: 673,420
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+000
+  rotate: false
+  xy: 531, 186
+  size: 95, 79
+  orig: 473, 529
+  offset: 160, 450
+  index: -1
+From selection
+  rotate: false
+  xy: 531, 267
+  size: 140, 151
+  orig: 473, 529
+  offset: 274, 233
+  index: -1
+Layer 1
+  rotate: true
+  xy: 2, 2
+  size: 416, 527
+  orig: 473, 527
+  offset: 0, 0
+  index: -1

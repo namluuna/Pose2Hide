@@ -1,0 +1,13 @@
+
+ConMeo2.png
+size: 391,301
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 6
+  rotate: false
+  xy: 2, 2
+  size: 387, 297
+  orig: 387, 297
+  offset: 0, 0
+  index: -1

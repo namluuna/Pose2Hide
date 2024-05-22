@@ -1,0 +1,41 @@
+
+Nu14.png
+size: 452,560
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: true
+  xy: 275, 21
+  size: 191, 139
+  orig: 195, 140
+  offset: 0, 1
+  index: -1
+3
+  rotate: true
+  xy: 294, 246
+  size: 312, 156
+  orig: 447, 464
+  offset: 134, 0
+  index: -1
+4
+  rotate: true
+  xy: 2, 2
+  size: 210, 156
+  orig: 447, 464
+  offset: 138, 55
+  index: -1
+5
+  rotate: false
+  xy: 160, 15
+  size: 113, 197
+  orig: 447, 464
+  offset: 0, 247
+  index: -1
+Layer 1
+  rotate: false
+  xy: 2, 214
+  size: 290, 344
+  orig: 447, 464
+  offset: 10, 120
+  index: -1

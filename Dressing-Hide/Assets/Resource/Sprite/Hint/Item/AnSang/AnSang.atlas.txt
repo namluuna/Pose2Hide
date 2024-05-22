@@ -1,0 +1,13 @@
+
+AnSang.png
+size: 184,203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Túi ăn sáng
+  rotate: false
+  xy: 2, 2
+  size: 180, 199
+  orig: 180, 199
+  offset: 0, 0
+  index: -1

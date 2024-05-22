@@ -1,0 +1,41 @@
+
+NU 1-2.png
+size: 498,594
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+123
+  rotate: false
+  xy: 182, 155
+  size: 314, 182
+  orig: 314, 182
+  offset: 0, 0
+  index: -1
+chan 1
+  rotate: true
+  xy: 2, 154
+  size: 438, 178
+  orig: 471, 178
+  offset: 33, 0
+  index: -1
+chan 2
+  rotate: true
+  xy: 182, 339
+  size: 253, 251
+  orig: 253, 251
+  offset: 0, 0
+  index: -1
+dau 1
+  rotate: false
+  xy: 188, 22
+  size: 148, 131
+  orig: 148, 131
+  offset: 0, 0
+  index: -1
+vay
+  rotate: true
+  xy: 2, 2
+  size: 150, 184
+  orig: 150, 184
+  offset: 0, 0
+  index: -1

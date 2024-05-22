@@ -1,0 +1,27 @@
+
+Nam 2_1.png
+size: 912,614
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ao
+  rotate: false
+  xy: 725, 415
+  size: 185, 197
+  orig: 185, 197
+  offset: 0, 0
+  index: -1
+tay sau
+  rotate: false
+  xy: 725, 236
+  size: 148, 177
+  orig: 148, 177
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 2, 2
+  size: 610, 721
+  orig: 610, 721
+  offset: 0, 0
+  index: -1

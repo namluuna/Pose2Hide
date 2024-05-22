@@ -1,0 +1,13 @@
+
+Bikini.png
+size: 243,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bikini
+  rotate: false
+  xy: 2, 2
+  size: 239, 250
+  orig: 239, 250
+  offset: 0, 0
+  index: -1

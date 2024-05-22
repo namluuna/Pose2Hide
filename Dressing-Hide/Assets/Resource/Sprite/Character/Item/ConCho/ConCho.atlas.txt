@@ -1,0 +1,13 @@
+
+ConCho.png
+size: 520,467
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 5
+  rotate: false
+  xy: 2, 2
+  size: 516, 463
+  orig: 516, 463
+  offset: 0, 0
+  index: -1

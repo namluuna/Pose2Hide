@@ -1,0 +1,13 @@
+
+MayTinh.png
+size: 324,250
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Máy tính
+  rotate: false
+  xy: 2, 2
+  size: 320, 246
+  orig: 320, 246
+  offset: 0, 0
+  index: -1

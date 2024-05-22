@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dae4a824da9080a4bbcf04be07dfab53, type: 3}
+  m_Name: Level 12
+  m_EditorClassIdentifier: 
+  Background:
+  - {fileID: 21300000, guid: a2de43e2f92db374a88cc49b096ed1a8, type: 3}
+  Background_Frame: []
+  Positon_Frame: []
+  pose: 4
+  time: 45
+  money: 100
+  Answers:
+  - _character: Female 3
+    _positon: {x: -5.9, y: -12.9, z: 0}
+    ListOfPose: 00000000010000000200000003000000
+    _pose: 3
+  - _character: Female 6
+    _positon: {x: -2.9, y: -5.6, z: 0}
+    ListOfPose: 00000000010000000300000004000000
+    _pose: 1
+  - _character: Female 7
+    _positon: {x: 6.7, y: -9.8, z: 0}
+    ListOfPose: 020000000000000001000000
+    _pose: 0
+  MapLevel: {fileID: 299688358172423600, guid: bf2d47a0a52cab94ebdb053be435b1ff, type: 3}
+  BossLevel: {fileID: 8123021577759227860, guid: 66f1ef80476863d498bfc00d1ce18fb3, type: 3}

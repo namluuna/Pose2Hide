@@ -1,0 +1,27 @@
+
+NU 8_1 pst.png
+size: 1318,374
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ca vat nu 8_1
+  rotate: false
+  xy: 1283, 226
+  size: 33, 146
+  orig: 33, 146
+  offset: 0, 0
+  index: -1
+than nu8_1
+  rotate: true
+  xy: 2, 3
+  size: 369, 836
+  orig: 369, 836
+  offset: 0, 0
+  index: -1
+toc 8_1
+  rotate: true
+  xy: 840, 2
+  size: 370, 441
+  orig: 370, 441
+  offset: 0, 0
+  index: -1

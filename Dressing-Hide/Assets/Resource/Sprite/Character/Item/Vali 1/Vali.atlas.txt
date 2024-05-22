@@ -1,0 +1,13 @@
+
+Vali.png
+size: 395,494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Vali du lịch
+  rotate: false
+  xy: 2, 2
+  size: 391, 490
+  orig: 391, 490
+  offset: 0, 0
+  index: -1

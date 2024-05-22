@@ -1,0 +1,20 @@
+
+Nam42.png
+size: 923,659
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+From selection
+  rotate: false
+  xy: 844, 568
+  size: 77, 89
+  orig: 841, 655
+  offset: 711, 346
+  index: -1
+Layer 1
+  rotate: false
+  xy: 2, 2
+  size: 840, 655
+  orig: 841, 655
+  offset: 0, 0
+  index: -1

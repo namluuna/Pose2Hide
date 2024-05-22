@@ -1,0 +1,13 @@
+
+Gorgi.png
+size: 349,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2
+  rotate: false
+  xy: 2, 2
+  size: 345, 250
+  orig: 345, 250
+  offset: 0, 0
+  index: -1

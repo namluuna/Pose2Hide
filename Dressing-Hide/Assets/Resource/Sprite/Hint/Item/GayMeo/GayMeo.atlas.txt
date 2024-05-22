@@ -1,0 +1,13 @@
+
+GayMeo.png
+size: 264,220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gay cho voi meo
+  rotate: false
+  xy: 2, 2
+  size: 260, 216
+  orig: 260, 216
+  offset: 0, 0
+  index: -1

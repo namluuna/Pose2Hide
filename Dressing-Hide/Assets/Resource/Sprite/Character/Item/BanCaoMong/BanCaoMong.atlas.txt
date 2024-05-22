@@ -1,0 +1,13 @@
+
+BanCaoMong.png
+size: 318,397
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ban cao mong
+  rotate: false
+  xy: 2, 2
+  size: 314, 393
+  orig: 314, 393
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+NU 7_3 pts.png
+size: 815,395
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 10
+  size: 608, 383
+  orig: 609, 383
+  offset: 0, 0
+  index: -1
+chan 7_3
+  rotate: false
+  xy: 612, 111
+  size: 201, 282
+  orig: 203, 284
+  offset: 1, 1
+  index: -1
+dau 7_3
+  rotate: true
+  xy: 612, 2
+  size: 107, 125
+  orig: 116, 125
+  offset: 8, 0
+  index: -1

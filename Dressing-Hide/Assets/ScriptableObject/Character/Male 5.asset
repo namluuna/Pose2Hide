@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4347fb7080bb7f64bbbc9858dabdec24, type: 3}
+  m_Name: Male 5
+  m_EditorClassIdentifier: 
+  CharacterId: Male 5
+  ListOfAnswer:
+  - {fileID: 11400000, guid: 9d0e2d3426304824b99e1fc85ca00c73, type: 2}
+  - {fileID: 11400000, guid: 0296d9a80bfe65c4abdf1dbc22c3e4b2, type: 2}
+  - {fileID: 11400000, guid: 41f467f9367d3a6419cf9ea76d47ac26, type: 2}
+  - {fileID: 11400000, guid: c36292d6fd9528741befaffd2e336fa4, type: 2}
+  - {fileID: 11400000, guid: 47d9f7c6d04c6834e9e5d291f54f8f7d, type: 2}
+  ListOfAnime:
+  - {fileID: 11400000, guid: f6fce3c52dac06949ad0f11644f981d8, type: 2}
+  - {fileID: 11400000, guid: 4aa92366c42107b4c86a0cb07a261d87, type: 2}
+  - {fileID: 11400000, guid: 88c75cd477d08dd43aa5c247377f1b68, type: 2}
+  - {fileID: 11400000, guid: 8f2826296cde41746b7ed48c86478d67, type: 2}
+  - {fileID: 11400000, guid: 3cb1b869a1b8c5845ba15b9f13480c67, type: 2}
+  ListSkinData: []

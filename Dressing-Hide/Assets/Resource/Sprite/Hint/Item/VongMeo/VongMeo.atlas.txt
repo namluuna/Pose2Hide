@@ -1,0 +1,13 @@
+
+VongMeo.png
+size: 147,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vong co cho meo
+  rotate: false
+  xy: 2, 2
+  size: 143, 144
+  orig: 143, 144
+  offset: 0, 0
+  index: -1

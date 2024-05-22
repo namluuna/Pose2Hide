@@ -1,0 +1,41 @@
+
+Nam 2_3.png
+size: 890,389
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ao
+  rotate: false
+  xy: 757, 58
+  size: 87, 139
+  orig: 87, 139
+  offset: 0, 0
+  index: -1
+ban tay
+  rotate: true
+  xy: 757, 2
+  size: 54, 85
+  orig: 54, 85
+  offset: 0, 0
+  index: -1
+tay
+  rotate: true
+  xy: 757, 199
+  size: 188, 131
+  orig: 188, 131
+  offset: 0, 0
+  index: -1
+than duoi
+  rotate: false
+  xy: 2, 2
+  size: 412, 385
+  orig: 412, 385
+  offset: 0, 0
+  index: -1
+than tren
+  rotate: false
+  xy: 416, 30
+  size: 339, 357
+  orig: 339, 357
+  offset: 0, 0
+  index: -1

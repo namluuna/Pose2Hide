@@ -1,0 +1,13 @@
+
+Character_Nam 5_Nam 5_2.png
+size: 445,713
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 2
+  size: 441, 709
+  orig: 441, 709
+  offset: 0, 0
+  index: -1

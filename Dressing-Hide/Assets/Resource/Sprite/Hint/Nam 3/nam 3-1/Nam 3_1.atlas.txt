@@ -1,0 +1,41 @@
+
+Nam 3_1.png
+size: 774,562
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+day 1
+  rotate: false
+  xy: 595, 6
+  size: 137, 121
+  orig: 137, 121
+  offset: 0, 0
+  index: -1
+day 2
+  rotate: true
+  xy: 2, 2
+  size: 33, 97
+  orig: 33, 97
+  offset: 0, 0
+  index: -1
+mu
+  rotate: false
+  xy: 595, 129
+  size: 149, 132
+  orig: 149, 132
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 2, 37
+  size: 591, 523
+  orig: 591, 523
+  offset: 0, 0
+  index: -1
+tui
+  rotate: false
+  xy: 595, 263
+  size: 177, 297
+  orig: 177, 297
+  offset: 0, 0
+  index: -1

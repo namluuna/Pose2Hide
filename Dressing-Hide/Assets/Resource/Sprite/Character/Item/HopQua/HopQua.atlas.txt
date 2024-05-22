@@ -1,0 +1,13 @@
+
+HopQua.png
+size: 163,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Quà giáng sinh
+  rotate: false
+  xy: 2, 2
+  size: 159, 160
+  orig: 159, 160
+  offset: 0, 0
+  index: -1

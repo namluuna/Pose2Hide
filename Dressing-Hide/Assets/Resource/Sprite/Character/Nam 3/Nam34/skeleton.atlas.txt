@@ -1,0 +1,13 @@
+
+skeleton.png
+size: 492,482
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Character_Nam 3_Nam 3_4
+  rotate: false
+  xy: 2, 2
+  size: 488, 478
+  orig: 493, 483
+  offset: 4, 2
+  index: -1

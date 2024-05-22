@@ -1,0 +1,13 @@
+
+CauTruot.png
+size: 692,326
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ghế tình yêu
+  rotate: false
+  xy: 2, 2
+  size: 688, 322
+  orig: 688, 322
+  offset: 0, 0
+  index: -1

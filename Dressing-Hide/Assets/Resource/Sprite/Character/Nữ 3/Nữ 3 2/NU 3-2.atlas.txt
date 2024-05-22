@@ -1,0 +1,27 @@
+
+NU 3-2.png
+size: 562,356
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: true
+  xy: 2, 2
+  size: 352, 539
+  orig: 353, 539
+  offset: 1, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 543, 327
+  size: 17, 27
+  orig: 19, 29
+  offset: 1, 1
+  index: -1
+Layer 4 copy
+  rotate: true
+  xy: 543, 307
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1

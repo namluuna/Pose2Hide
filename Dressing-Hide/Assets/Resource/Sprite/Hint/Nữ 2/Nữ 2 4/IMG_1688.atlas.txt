@@ -1,0 +1,34 @@
+
+IMG_1688.png
+size: 683,587
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+From selection
+  rotate: false
+  xy: 2, 494
+  size: 95, 91
+  orig: 672, 442
+  offset: 471, 327
+  index: -1
+Layer 1
+  rotate: false
+  xy: 2, 2
+  size: 671, 442
+  orig: 672, 442
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: true
+  xy: 467, 446
+  size: 139, 214
+  orig: 672, 442
+  offset: 470, 209
+  index: -1
+SSS
+  rotate: true
+  xy: 99, 468
+  size: 117, 366
+  orig: 117, 366
+  offset: 0, 0
+  index: -1

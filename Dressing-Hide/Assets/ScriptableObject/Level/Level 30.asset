@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dae4a824da9080a4bbcf04be07dfab53, type: 3}
+  m_Name: Level 30
+  m_EditorClassIdentifier: 
+  Background:
+  - {fileID: 21300000, guid: 411b01a4ae11d774d96ebfdbadf3b40c, type: 3}
+  Background_Frame: []
+  Positon_Frame:
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  pose: 5
+  time: 30
+  money: 200
+  Answers:
+  - _character: Male 4
+    _positon: {x: 6, y: -8.3, z: 0}
+    ListOfPose: 
+    _pose: 4
+  - _character: Male 5
+    _positon: {x: -2.9, y: -3.5, z: 0}
+    ListOfPose: 
+    _pose: 3
+  - _character: Female 2
+    _positon: {x: -3.2, y: -12.9, z: 0}
+    ListOfPose: 
+    _pose: 3
+  - _character: Dep
+    _positon: {x: 5.8, y: -12.5, z: 0}
+    ListOfPose: 
+    _pose: 0
+  Skin: 
+  MapLevel: {fileID: 7633159053697578889, guid: d121a06bacdf1ac46b3f63602760a08f, type: 3}
+  BossLevel: {fileID: 1902667199603796496, guid: 40e9641f0c9e1bb459a58123392c5c82, type: 3}

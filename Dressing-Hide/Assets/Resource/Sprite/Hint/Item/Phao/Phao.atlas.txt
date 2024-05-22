@@ -1,0 +1,13 @@
+
+Phao.png
+size: 236,286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+phao cứu hộ
+  rotate: false
+  xy: 2, 2
+  size: 232, 282
+  orig: 232, 282
+  offset: 0, 0
+  index: -1

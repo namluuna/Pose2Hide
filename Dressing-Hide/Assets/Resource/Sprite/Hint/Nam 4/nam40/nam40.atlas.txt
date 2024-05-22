@@ -1,0 +1,34 @@
+
+IMG_1690.png
+size: 845,357
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 141, 286
+  size: 97, 69
+  orig: 259, 842
+  offset: 41, 773
+  index: -1
+001
+  rotate: true
+  xy: 2, 299
+  size: 56, 137
+  orig: 259, 842
+  offset: 115, 701
+  index: -1
+002
+  rotate: true
+  xy: 240, 262
+  size: 93, 321
+  orig: 259, 842
+  offset: 155, 370
+  index: -1
+Layer 1
+  rotate: true
+  xy: 2, 2
+  size: 258, 841
+  orig: 259, 842
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: ae1bb0bbef717b0439092223d1fbb7f5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GUI_(GUI) Win Lose_3
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 6539
+        width: 2418
+        height: 844
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da65cc80c68cbda419ee143a4a2d8a54
+      internalID: -712425580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_(GUI) Win Lose_11
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 5602
+        width: 2415
+        height: 820
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2167bb5cb1680fd4d8695a22f7126816
+      internalID: -2051378929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_(GUI) Win Lose_19
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 2270
+        width: 1180
+        height: 496
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074aeeea0fcf5d44a9d4f9bd3e62923b
+      internalID: 164309489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_(GUI) Win Lose_21
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1922
+        width: 992
+        height: 683
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa98c8e3aaadcb247bab48b9c7fc2bb3
+      internalID: -271330970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_(GUI) Win Lose_22
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 1922
+        width: 1035
+        height: 683
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79617639d94d54f4fa2f5a67e161bb53
+      internalID: 743641795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_(GUI) Win Lose_28
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 1828
+        width: 613
+        height: 414
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206e98306f040ab4cb19e0f638921270
+      internalID: -550679613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_(GUI) Win Lose_34
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 797
+        width: 1016
+        height: 680
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159f94154d8039240994bac1af07464d
+      internalID: 108257563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_(GUI) Win Lose_35
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 770
+        width: 1707
+        height: 710
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23090f20fb8364438b9242a6a87521b
+      internalID: 2009687234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GUI_(GUI) Win Lose_0: -1191970326
+      GUI_(GUI) Win Lose_1: 735211100
+      GUI_(GUI) Win Lose_10: -965824143
+      GUI_(GUI) Win Lose_11: -2051378929
+      GUI_(GUI) Win Lose_12: -598912502
+      GUI_(GUI) Win Lose_13: 132122139
+      GUI_(GUI) Win Lose_14: 1651244540
+      GUI_(GUI) Win Lose_15: -917206224
+      GUI_(GUI) Win Lose_16: 731864586
+      GUI_(GUI) Win Lose_17: -1175230405
+      GUI_(GUI) Win Lose_18: 21675739
+      GUI_(GUI) Win Lose_19: 164309489
+      GUI_(GUI) Win Lose_2: 1953461372
+      GUI_(GUI) Win Lose_20: 2146782418
+      GUI_(GUI) Win Lose_21: -271330970
+      GUI_(GUI) Win Lose_22: 743641795
+      GUI_(GUI) Win Lose_23: 1562791479
+      GUI_(GUI) Win Lose_24: -1428878070
+      GUI_(GUI) Win Lose_25: -2028734702
+      GUI_(GUI) Win Lose_26: -675486239
+      GUI_(GUI) Win Lose_27: 246924018
+      GUI_(GUI) Win Lose_28: -550679613
+      GUI_(GUI) Win Lose_29: 1953425568
+      GUI_(GUI) Win Lose_3: -712425580
+      GUI_(GUI) Win Lose_30: 1995370724
+      GUI_(GUI) Win Lose_31: -2108629947
+      GUI_(GUI) Win Lose_32: -1843070479
+      GUI_(GUI) Win Lose_33: -1096072003
+      GUI_(GUI) Win Lose_34: 108257563
+      GUI_(GUI) Win Lose_35: 2009687234
+      GUI_(GUI) Win Lose_36: 785770524
+      GUI_(GUI) Win Lose_37: -934252768
+      GUI_(GUI) Win Lose_38: 67956316
+      GUI_(GUI) Win Lose_39: -350551512
+      GUI_(GUI) Win Lose_4: -209952117
+      GUI_(GUI) Win Lose_40: -2058309642
+      GUI_(GUI) Win Lose_41: -1291003771
+      GUI_(GUI) Win Lose_5: 1837648862
+      GUI_(GUI) Win Lose_6: -1181036198
+      GUI_(GUI) Win Lose_7: 1914711032
+      GUI_(GUI) Win Lose_8: -1952860491
+      GUI_(GUI) Win Lose_9: -30866762
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

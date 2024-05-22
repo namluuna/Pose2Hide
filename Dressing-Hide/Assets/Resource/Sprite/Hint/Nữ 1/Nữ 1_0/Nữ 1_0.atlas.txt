@@ -1,0 +1,41 @@
+
+Nữ 1_0.png
+size: 681,438
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chan
+  rotate: true
+  xy: 2, 271
+  size: 165, 581
+  orig: 165, 581
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 585, 404
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 585, 381
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+than tren
+  rotate: true
+  xy: 2, 2
+  size: 267, 502
+  orig: 267, 502
+  offset: 0, 0
+  index: -1
+vay
+  rotate: true
+  xy: 506, 6
+  size: 263, 173
+  orig: 263, 173
+  offset: 0, 0
+  index: -1

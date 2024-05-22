@@ -1,0 +1,41 @@
+
+IMG_1685.png
+size: 739,417
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+111
+  rotate: true
+  xy: 2, 2
+  size: 141, 234
+  orig: 284, 742
+  offset: 131, 255
+  index: -1
+22
+  rotate: true
+  xy: 617, 2
+  size: 141, 86
+  orig: 284, 742
+  offset: 27, 503
+  index: -1
+333
+  rotate: false
+  xy: 705, 119
+  size: 24, 24
+  orig: 284, 742
+  offset: 209, 675
+  index: -1
+From selection
+  rotate: true
+  xy: 238, 6
+  size: 137, 377
+  orig: 284, 742
+  offset: 146, 365
+  index: -1
+Layer 1
+  rotate: true
+  xy: 2, 145
+  size: 270, 735
+  orig: 284, 742
+  offset: 0, 0
+  index: -1

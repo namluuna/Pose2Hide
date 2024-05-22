@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dae4a824da9080a4bbcf04be07dfab53, type: 3}
+  m_Name: Level 37
+  m_EditorClassIdentifier: 
+  Background:
+  - {fileID: 21300000, guid: 11b04742a8a91154f8ed8f34d40bc399, type: 3}
+  Background_Frame: []
+  Positon_Frame: []
+  pose: 5
+  time: 30
+  money: 50
+  Answers:
+  - _character: ConCho
+    _positon: {x: -0.46, y: -3.78, z: 0}
+    ListOfPose: 
+    _pose: 0
+  - _character: ConEch
+    _positon: {x: -1.85, y: -9.67, z: 0}
+    ListOfPose: 
+    _pose: 0
+  - _character: TuiThucAn
+    _positon: {x: -3.83, y: 4.55, z: 0}
+    ListOfPose: 
+    _pose: 0
+  - _character: KhayCat1
+    _positon: {x: 6, y: -6.26, z: 0}
+    ListOfPose: 
+    _pose: 0
+  - _character: CuonLen3
+    _positon: {x: 7.9, y: -4.05, z: 0}
+    ListOfPose: 
+    _pose: 0
+  - _character: GayMeo
+    _positon: {x: 2.25, y: 7.38, z: 0}
+    ListOfPose: 
+    _pose: 0
+  - _character: Female 3
+    _positon: {x: -8.3, y: -12.1, z: 0}
+    ListOfPose: 03000000000000000200000004000000
+    _pose: 0
+  - _character: BatAn
+    _positon: {x: 1.44, y: -5.06, z: 0}
+    ListOfPose: 
+    _pose: 0
+  Skin: 
+  MapLevel: {fileID: 5948896704192330961, guid: b17707e5414126042b0b032b70b81aeb, type: 3}
+  BossLevel: {fileID: 8123021577759227860, guid: 66f1ef80476863d498bfc00d1ce18fb3, type: 3}

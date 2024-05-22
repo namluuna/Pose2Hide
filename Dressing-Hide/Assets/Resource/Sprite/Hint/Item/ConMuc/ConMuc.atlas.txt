@@ -1,0 +1,13 @@
+
+ConMuc.png
+size: 289,397
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 2
+  size: 285, 393
+  orig: 285, 393
+  offset: 0, 0
+  index: -1

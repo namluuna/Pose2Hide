@@ -1,0 +1,13 @@
+
+CuonLen3.png
+size: 189,125
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cuc len 3
+  rotate: false
+  xy: 2, 2
+  size: 185, 121
+  orig: 185, 121
+  offset: 0, 0
+  index: -1

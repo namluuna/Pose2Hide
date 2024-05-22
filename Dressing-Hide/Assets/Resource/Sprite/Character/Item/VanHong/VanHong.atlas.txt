@@ -1,0 +1,13 @@
+
+VanHong.png
+size: 409,588
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ván hồng 3
+  rotate: false
+  xy: 2, 2
+  size: 405, 584
+  orig: 405, 584
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+VanHong2.png
+size: 468,551
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ván hồng 2
+  rotate: false
+  xy: 2, 2
+  size: 464, 547
+  orig: 468, 547
+  offset: 0, 0
+  index: -1

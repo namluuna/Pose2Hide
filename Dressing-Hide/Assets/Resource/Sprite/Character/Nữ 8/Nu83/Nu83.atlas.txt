@@ -1,0 +1,34 @@
+
+Nu83.png
+size: 885,564
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: true
+  xy: 568, 51
+  size: 108, 231
+  orig: 110, 234
+  offset: 1, 1
+  index: -1
+Layer 2
+  rotate: false
+  xy: 2, 2
+  size: 564, 560
+  orig: 564, 560
+  offset: 0, 0
+  index: -1
+ca vat nu 8_3
+  rotate: true
+  xy: 801, 33
+  size: 126, 82
+  orig: 126, 82
+  offset: 0, 0
+  index: -1
+toc  8_3
+  rotate: false
+  xy: 568, 161
+  size: 260, 401
+  orig: 260, 401
+  offset: 0, 0
+  index: -1

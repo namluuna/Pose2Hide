@@ -1,0 +1,13 @@
+
+TuiThucAn.png
+size: 155,206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tui thuc an
+  rotate: false
+  xy: 2, 2
+  size: 151, 202
+  orig: 151, 202
+  offset: 0, 0
+  index: -1

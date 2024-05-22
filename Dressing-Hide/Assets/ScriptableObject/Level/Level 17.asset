@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dae4a824da9080a4bbcf04be07dfab53, type: 3}
+  m_Name: Level 17
+  m_EditorClassIdentifier: 
+  Background:
+  - {fileID: 21300000, guid: 109372a5acb52184f97d25dc1153865c, type: 3}
+  Background_Frame: []
+  Positon_Frame: []
+  pose: 5
+  time: 40
+  money: 150
+  Answers:
+  - _character: Male 1
+    _positon: {x: -1.3, y: -12.6, z: 0}
+    ListOfPose: 010000000200000003000000
+    _pose: 3
+  - _character: Male 3
+    _positon: {x: 0.2, y: -4.2, z: 0}
+    ListOfPose: 040000000100000002000000
+    _pose: 1
+  - _character: SaoBien
+    _positon: {x: 4.32, y: -8.24, z: 0}
+    ListOfPose: 00000000
+    _pose: 0
+  - _character: Mu
+    _positon: {x: -6.18, y: -0.88, z: 0}
+    ListOfPose: 00000000
+    _pose: 0
+  Skin: 
+  MapLevel: {fileID: 7489772404976833027, guid: eaf99baae3cab634780a5d6952a4147b, type: 3}
+  BossLevel: {fileID: 238145663578318587, guid: db5f0256cd035894999deef64bbc7adf, type: 3}

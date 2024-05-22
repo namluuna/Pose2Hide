@@ -1,0 +1,27 @@
+
+Nu53.png
+size: 506,448
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+From seleaaction
+  rotate: false
+  xy: 406, 18
+  size: 98, 428
+  orig: 268, 823
+  offset: 106, 5
+  index: -1
+From selection
+  rotate: false
+  xy: 252, 2
+  size: 152, 444
+  orig: 268, 823
+  offset: 2, 2
+  index: -1
+Layer 1
+  rotate: false
+  xy: 2, 7
+  size: 248, 439
+  orig: 268, 823
+  offset: 20, 384
+  index: -1

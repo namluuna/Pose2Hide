@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4347fb7080bb7f64bbbc9858dabdec24, type: 3}
+  m_Name: AnSang
+  m_EditorClassIdentifier: 
+  CharacterId: AnSang
+  ListOfAnswer:
+  - {fileID: 11400000, guid: 8552936c728cd40439b5e39b5a640bb0, type: 2}
+  ListOfAnime:
+  - {fileID: 11400000, guid: c9f456be08281e246b2046a6e897630c, type: 2}
+  ListSkinData: []

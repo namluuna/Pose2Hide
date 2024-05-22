@@ -1,0 +1,13 @@
+
+DiaCau.png
+size: 204,271
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Địa cầu
+  rotate: false
+  xy: 2, 2
+  size: 200, 267
+  orig: 201, 267
+  offset: 1, 0
+  index: -1

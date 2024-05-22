@@ -1,0 +1,13 @@
+
+Balo.png
+size: 281,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ba lô
+  rotate: false
+  xy: 2, 2
+  size: 277, 255
+  orig: 277, 255
+  offset: 0, 0
+  index: -1

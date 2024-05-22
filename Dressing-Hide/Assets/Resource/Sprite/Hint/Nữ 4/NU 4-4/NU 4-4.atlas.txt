@@ -1,0 +1,27 @@
+
+NU 4-4.png
+size: 611,650
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 2
+  size: 497, 646
+  orig: 497, 646
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 501, 115
+  size: 93, 265
+  orig: 94, 265
+  offset: 1, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 501, 382
+  size: 108, 266
+  orig: 108, 267
+  offset: 0, 1
+  index: -1

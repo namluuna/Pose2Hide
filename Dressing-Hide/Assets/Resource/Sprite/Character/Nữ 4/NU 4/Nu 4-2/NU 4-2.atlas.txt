@@ -1,0 +1,27 @@
+
+NU 4-2.png
+size: 477,773
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B0/Layer 1
+  rotate: true
+  xy: 2, 2
+  size: 353, 469
+  orig: 353, 469
+  offset: 0, 0
+  index: -1
+B1/Layer 4 Copy
+  rotate: true
+  xy: 2, 357
+  size: 305, 473
+  orig: 305, 473
+  offset: 0, 0
+  index: -1
+B1/Layer 4 Copy 2
+  rotate: true
+  xy: 2, 664
+  size: 107, 132
+  orig: 107, 132
+  offset: 0, 0
+  index: -1

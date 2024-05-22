@@ -1,0 +1,62 @@
+
+Nam 1_3.png
+size: 1110,359
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chan 2
+  rotate: false
+  xy: 559, 205
+  size: 420, 152
+  orig: 420, 152
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 866, 89
+  size: 113, 114
+  orig: 113, 114
+  offset: 0, 0
+  index: -1
+mat 1
+  rotate: false
+  xy: 890, 70
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+mat 2
+  rotate: false
+  xy: 912, 75
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+tay 1
+  rotate: false
+  xy: 981, 2
+  size: 127, 355
+  orig: 127, 355
+  offset: 0, 0
+  index: -1
+tay 2
+  rotate: true
+  xy: 559, 47
+  size: 156, 305
+  orig: 156, 305
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 2, 8
+  size: 555, 349
+  orig: 555, 349
+  offset: 0, 0
+  index: -1
+toc
+  rotate: false
+  xy: 866, 34
+  size: 22, 53
+  orig: 22, 53
+  offset: 0, 0
+  index: -1

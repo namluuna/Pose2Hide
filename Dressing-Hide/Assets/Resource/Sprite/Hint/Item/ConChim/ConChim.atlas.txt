@@ -1,0 +1,13 @@
+
+ConChim.png
+size: 209,180
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 8
+  rotate: false
+  xy: 2, 2
+  size: 205, 176
+  orig: 205, 176
+  offset: 0, 0
+  index: -1

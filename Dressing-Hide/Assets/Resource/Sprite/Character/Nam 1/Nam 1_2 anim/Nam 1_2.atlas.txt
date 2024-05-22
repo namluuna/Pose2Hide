@@ -1,0 +1,27 @@
+
+Nam 1_2.png
+size: 741,674
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Nam 1_2 Copy 3
+  rotate: true
+  xy: 2, 2
+  size: 670, 724
+  orig: 670, 724
+  offset: 0, 0
+  index: -1
+mat 1
+  rotate: true
+  xy: 728, 644
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+mat 2
+  rotate: true
+  xy: 728, 623
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1

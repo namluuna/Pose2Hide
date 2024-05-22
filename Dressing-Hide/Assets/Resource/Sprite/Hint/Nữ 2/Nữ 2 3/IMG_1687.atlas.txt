@@ -1,0 +1,27 @@
+
+IMG_1687.png
+size: 655,459
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 473, 138
+  size: 180, 319
+  orig: 509, 469
+  offset: 329, 17
+  index: -1
+From selection
+  rotate: false
+  xy: 473, 113
+  size: 53, 23
+  orig: 509, 469
+  offset: 266, 387
+  index: -1
+Layer 1
+  rotate: true
+  xy: 2, 2
+  size: 455, 469
+  orig: 509, 469
+  offset: 0, 0
+  index: -1

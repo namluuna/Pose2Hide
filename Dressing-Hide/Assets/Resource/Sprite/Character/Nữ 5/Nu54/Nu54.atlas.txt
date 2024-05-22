@@ -1,0 +1,27 @@
+
+Nu54.png
+size: 930,420
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+From
+  rotate: false
+  xy: 823, 178
+  size: 99, 115
+  orig: 417, 824
+  offset: 199, 656
+  index: -1
+From selection
+  rotate: true
+  xy: 823, 295
+  size: 123, 105
+  orig: 417, 824
+  offset: 2, 718
+  index: -1
+Layer 1
+  rotate: true
+  xy: 2, 2
+  size: 416, 819
+  orig: 417, 824
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+nu 6 4.png
+size: 874,548
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cahn 1
+  rotate: false
+  xy: 2, 49
+  size: 191, 497
+  orig: 191, 497
+  offset: 0, 0
+  index: -1
+cahn2
+  rotate: false
+  xy: 195, 72
+  size: 160, 474
+  orig: 160, 474
+  offset: 0, 0
+  index: -1
+duoi
+  rotate: true
+  xy: 357, 90
+  size: 304, 241
+  orig: 304, 241
+  offset: 0, 0
+  index: -1
+tay 1
+  rotate: false
+  xy: 600, 2
+  size: 252, 196
+  orig: 252, 196
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 600, 200
+  size: 272, 194
+  orig: 272, 209
+  offset: 0, 15
+  index: -1
+toc1
+  rotate: true
+  xy: 357, 396
+  size: 150, 393
+  orig: 150, 393
+  offset: 0, 0
+  index: -1
+toc2
+  rotate: true
+  xy: 2, 9
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+vay
+  rotate: true
+  xy: 752, 413
+  size: 133, 112
+  orig: 133, 112
+  offset: 0, 0
+  index: -1

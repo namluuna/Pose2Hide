@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: 6d9a79f9b343aa64bb0223b6e7af0ea4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_0
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2504
+        width: 387
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac012dcb316039e408dcabc83aa5e762
+      internalID: -1659760806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_1
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 2529
+        width: 388
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1ecf6858cf1ee40bbebd30b90f6cb8
+      internalID: 1360557557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_2
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 2528
+        width: 386
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3d09b619524ef4f8c6614827ab10a7
+      internalID: -872554667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_3
+      rect:
+        serializedVersion: 2
+        x: 3182
+        y: 2541
+        width: 382
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0caaa36832dfd64f85c5b778ed81f4e
+      internalID: -634843752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_4
+      rect:
+        serializedVersion: 2
+        x: 3596
+        y: 2545
+        width: 392
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcf79d6024399845bc8c6c11c1e31f5
+      internalID: 2069619059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_5
+      rect:
+        serializedVersion: 2
+        x: 4006
+        y: 2531
+        width: 400
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a729a40daac3c3742b768e4adb4a554d
+      internalID: -2026701761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_6
+      rect:
+        serializedVersion: 2
+        x: 4439
+        y: 2504
+        width: 389
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b7495ec56a05a46846dc1a04ee1fe2
+      internalID: -322835479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_7
+      rect:
+        serializedVersion: 2
+        x: 4857
+        y: 2504
+        width: 393
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbf11510b89cc442820316b533682e4
+      internalID: -102812473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_8
+      rect:
+        serializedVersion: 2
+        x: 5287
+        y: 2504
+        width: 385
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c4d0a4c068ef748b1cf8f22711be47
+      internalID: 2109090440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_9
+      rect:
+        serializedVersion: 2
+        x: 5692
+        y: 2528
+        width: 388
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9c7d3e1726fec4f930431874ffc675
+      internalID: -1227158692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_14
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 2049
+        width: 412
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85e9224ba81f08428218985d6fa0e56
+      internalID: 827615539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_15
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 2039
+        width: 400
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d95a0dea11bf0344b675d6535543d96
+      internalID: -2041478036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_16
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 2039
+        width: 382
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c527565c081444e89579b2c2a66de6
+      internalID: 1808359085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_17
+      rect:
+        serializedVersion: 2
+        x: 3182
+        y: 2036
+        width: 382
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331ad4461860fe841bd0db365f4784e3
+      internalID: 1232209686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_18
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2036
+        width: 386
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c406085bf456254db8ff26c1990db05
+      internalID: -483271091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_19
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 2036
+        width: 400
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4567d75c2742e84b883cdf7776fc2eb
+      internalID: 779436168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_20
+      rect:
+        serializedVersion: 2
+        x: 4430
+        y: 2049
+        width: 392
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fce59bf21207dd47adf60d1c8615beb
+      internalID: -638246228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_21
+      rect:
+        serializedVersion: 2
+        x: 4857
+        y: 2036
+        width: 393
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3d16c5333d1ff49b3b43c3a60fc02d
+      internalID: -1909720037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_22
+      rect:
+        serializedVersion: 2
+        x: 5275
+        y: 2039
+        width: 383
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161f8773eb060874cba2a2a1d0310742
+      internalID: 1300277378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_23
+      rect:
+        serializedVersion: 2
+        x: 5693
+        y: 2045
+        width: 404
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13de3d33230b91848aefc434769907ab
+      internalID: -1505648312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_25
+      rect:
+        serializedVersion: 2
+        x: 3182
+        y: 1543
+        width: 386
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020beb0b4a2e06740858692247067c59
+      internalID: -244531376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_26
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1543
+        width: 386
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ee570d25bb166459048ae1b6448ca8
+      internalID: 1408059225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_36
+      rect:
+        serializedVersion: 2
+        x: 5694
+        y: 1543
+        width: 403
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8938c013d479be4469a0a235bf02cbb5
+      internalID: 1509621056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_38
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1543
+        width: 400
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f352792728b584792b22afcc0a9d1d
+      internalID: 742579473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_39
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 1520
+        width: 383
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c366330bb57bc4eb42d985533452f2
+      internalID: -366779808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_40
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 1520
+        width: 400
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e597b98dd38d5469ffab7b24ee08ad
+      internalID: 608048579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_41
+      rect:
+        serializedVersion: 2
+        x: 4022
+        y: 1543
+        width: 382
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bcef9abc1d1c642867360963bc8645
+      internalID: -34623757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_42
+      rect:
+        serializedVersion: 2
+        x: 4439
+        y: 1561
+        width: 383
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4aa82907b4ea5f4c87c44ec012f9928
+      internalID: -535899368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_43
+      rect:
+        serializedVersion: 2
+        x: 4857
+        y: 1561
+        width: 393
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3420daeccae55524791c36b0f6577633
+      internalID: -75863657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_Button Packet-03_44
+      rect:
+        serializedVersion: 2
+        x: 5270
+        y: 1543
+        width: 388
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2f1214f3f893c4fa95850fc97652bd
+      internalID: -1847397003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GUI_Button Packet-03_0: -1659760806
+      GUI_Button Packet-03_1: 1360557557
+      GUI_Button Packet-03_10: -456334120
+      GUI_Button Packet-03_11: 848443859
+      GUI_Button Packet-03_12: -2011457563
+      GUI_Button Packet-03_13: -1317044642
+      GUI_Button Packet-03_14: 827615539
+      GUI_Button Packet-03_15: -2041478036
+      GUI_Button Packet-03_16: 1808359085
+      GUI_Button Packet-03_17: 1232209686
+      GUI_Button Packet-03_18: -483271091
+      GUI_Button Packet-03_19: 779436168
+      GUI_Button Packet-03_2: -872554667
+      GUI_Button Packet-03_20: -638246228
+      GUI_Button Packet-03_21: -1909720037
+      GUI_Button Packet-03_22: 1300277378
+      GUI_Button Packet-03_23: -1505648312
+      GUI_Button Packet-03_24: 738369775
+      GUI_Button Packet-03_25: -244531376
+      GUI_Button Packet-03_26: 1408059225
+      GUI_Button Packet-03_27: 2091962689
+      GUI_Button Packet-03_28: 28545289
+      GUI_Button Packet-03_29: -532080968
+      GUI_Button Packet-03_3: -634843752
+      GUI_Button Packet-03_30: 1908194094
+      GUI_Button Packet-03_31: -875731981
+      GUI_Button Packet-03_32: -2003942041
+      GUI_Button Packet-03_33: 1531537100
+      GUI_Button Packet-03_34: -627367038
+      GUI_Button Packet-03_35: -1405280616
+      GUI_Button Packet-03_36: 1509621056
+      GUI_Button Packet-03_37: -1848649004
+      GUI_Button Packet-03_38: 742579473
+      GUI_Button Packet-03_39: -366779808
+      GUI_Button Packet-03_4: 2069619059
+      GUI_Button Packet-03_40: 608048579
+      GUI_Button Packet-03_41: -34623757
+      GUI_Button Packet-03_42: -535899368
+      GUI_Button Packet-03_43: -75863657
+      GUI_Button Packet-03_44: -1847397003
+      GUI_Button Packet-03_5: -2026701761
+      GUI_Button Packet-03_6: -322835479
+      GUI_Button Packet-03_7: -102812473
+      GUI_Button Packet-03_8: 2109090440
+      GUI_Button Packet-03_9: -1227158692
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

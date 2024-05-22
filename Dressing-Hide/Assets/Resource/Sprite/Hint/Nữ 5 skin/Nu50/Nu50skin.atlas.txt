@@ -1,0 +1,55 @@
+
+Nu50skin.png
+size: 1692,324
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1193, 27
+  size: 153, 469
+  orig: 387, 840
+  offset: 0, 319
+  index: -1
+2
+  rotate: false
+  xy: 844, 2
+  size: 50, 83
+  orig: 387, 840
+  offset: 132, 483
+  index: -1
+3
+  rotate: true
+  xy: 896, 15
+  size: 70, 52
+  orig: 387, 840
+  offset: 102, 516
+  index: -1
+4
+  rotate: true
+  xy: 844, 87
+  size: 235, 193
+  orig: 387, 840
+  offset: 49, 419
+  index: -1
+5
+  rotate: true
+  xy: 2, 5
+  size: 317, 840
+  orig: 387, 840
+  offset: 70, 0
+  index: -1
+6
+  rotate: true
+  xy: 1039, 92
+  size: 230, 152
+  orig: 387, 840
+  offset: 49, 417
+  index: -1
+7
+  rotate: true
+  xy: 1193, 182
+  size: 140, 497
+  orig: 387, 840
+  offset: 211, 318
+  index: -1

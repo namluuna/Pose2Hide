@@ -1,0 +1,13 @@
+
+Vali2.png
+size: 227,503
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Vali 2
+  rotate: false
+  xy: 2, 2
+  size: 223, 499
+  orig: 223, 499
+  offset: 0, 0
+  index: -1

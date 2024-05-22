@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 04505c193dbd22f4f8844a1ac0c5accb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - iCiel ButterScotch
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5a1f195df75d3c94a87d4baae4b61ea9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

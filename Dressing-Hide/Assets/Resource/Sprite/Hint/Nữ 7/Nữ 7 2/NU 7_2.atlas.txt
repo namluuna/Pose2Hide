@@ -1,0 +1,41 @@
+
+NU 7_2.png
+size: 866,444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: true
+  xy: 2, 2
+  size: 440, 729
+  orig: 440, 731
+  offset: 0, 1
+  index: -1
+no 1 nu7_2
+  rotate: false
+  xy: 820, 169
+  size: 44, 71
+  orig: 49, 73
+  offset: 5, 1
+  index: -1
+no 2 nu7_2
+  rotate: true
+  xy: 733, 12
+  size: 31, 82
+  orig: 59, 83
+  offset: 0, 1
+  index: -1
+toc nu 7_2
+  rotate: false
+  xy: 733, 45
+  size: 85, 195
+  orig: 86, 195
+  offset: 1, 0
+  index: -1
+vay 7_2
+  rotate: true
+  xy: 733, 242
+  size: 200, 131
+  orig: 201, 133
+  offset: 0, 0
+  index: -1

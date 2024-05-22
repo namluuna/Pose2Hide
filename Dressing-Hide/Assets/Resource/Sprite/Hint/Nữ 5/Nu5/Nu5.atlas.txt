@@ -1,0 +1,34 @@
+
+Nu5.png
+size: 1009,243
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: true
+  xy: 2, 2
+  size: 239, 707
+  orig: 334, 839
+  offset: 0, 0
+  index: -1
+s
+  rotate: true
+  xy: 851, 113
+  size: 128, 156
+  orig: 334, 839
+  offset: 68, 683
+  index: -1
+ss
+  rotate: true
+  xy: 851, 21
+  size: 90, 152
+  orig: 334, 839
+  offset: 11, 500
+  index: -1
+sss
+  rotate: false
+  xy: 711, 52
+  size: 138, 189
+  orig: 334, 839
+  offset: 194, 443
+  index: -1

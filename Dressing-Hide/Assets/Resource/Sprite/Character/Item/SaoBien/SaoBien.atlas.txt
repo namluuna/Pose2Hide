@@ -1,0 +1,13 @@
+
+SaoBien.png
+size: 146,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sao biển
+  rotate: false
+  xy: 2, 2
+  size: 142, 140
+  orig: 142, 140
+  offset: 0, 0
+  index: -1

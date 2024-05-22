@@ -1,0 +1,34 @@
+
+nam44.png
+size: 907,285
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 756, 184
+  size: 99, 149
+  orig: 281, 758
+  offset: 0, 461
+  index: -1
+222
+  rotate: true
+  xy: 756, 112
+  size: 70, 145
+  orig: 281, 758
+  offset: 204, 449
+  index: -1
+From selection
+  rotate: true
+  xy: 756, 22
+  size: 88, 86
+  orig: 281, 758
+  offset: 83, 671
+  index: -1
+Layer 1
+  rotate: true
+  xy: 2, 2
+  size: 281, 752
+  orig: 281, 758
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+Nam 3_0.png
+size: 1038,347
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+day 1
+  rotate: false
+  xy: 916, 186
+  size: 99, 159
+  orig: 99, 159
+  offset: 0, 0
+  index: -1
+day 2
+  rotate: true
+  xy: 643, 9
+  size: 62, 158
+  orig: 62, 158
+  offset: 0, 0
+  index: -1
+mu bao hiem
+  rotate: true
+  xy: 884, 5
+  size: 179, 152
+  orig: 179, 152
+  offset: 0, 0
+  index: -1
+tay 1
+  rotate: true
+  xy: 643, 197
+  size: 148, 271
+  orig: 148, 271
+  offset: 0, 0
+  index: -1
+tay 2
+  rotate: true
+  xy: 643, 73
+  size: 122, 239
+  orig: 122, 239
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 2, 2
+  size: 343, 639
+  orig: 343, 639
+  offset: 0, 0
+  index: -1

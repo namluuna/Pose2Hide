@@ -1,0 +1,62 @@
+
+NU 10_1.png
+size: 1095,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Behiad Bow tie
+  rotate: true
+  xy: 965, 370
+  size: 164, 128
+  orig: 164, 128
+  offset: 0, 0
+  index: -1
+Behind hair
+  rotate: true
+  xy: 915, 157
+  size: 211, 163
+  orig: 211, 163
+  offset: 0, 0
+  index: -1
+Behind skirt
+  rotate: false
+  xy: 636, 260
+  size: 277, 115
+  orig: 277, 115
+  offset: 0, 0
+  index: -1
+Body
+  rotate: true
+  xy: 2, 7
+  size: 527, 632
+  orig: 527, 632
+  offset: 0, 0
+  index: -1
+Front skirt
+  rotate: false
+  xy: 636, 143
+  size: 274, 115
+  orig: 274, 115
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 912, 2
+  size: 161, 153
+  orig: 161, 153
+  offset: 0, 0
+  index: -1
+Sleeve
+  rotate: false
+  xy: 636, 14
+  size: 219, 127
+  orig: 219, 127
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 636, 377
+  size: 327, 157
+  orig: 327, 157
+  offset: 0, 0
+  index: -1

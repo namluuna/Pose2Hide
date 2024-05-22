@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4347fb7080bb7f64bbbc9858dabdec24, type: 3}
+  m_Name: LongChim
+  m_EditorClassIdentifier: 
+  CharacterId: LongChim
+  ListOfAnswer:
+  - {fileID: 11400000, guid: b5e893ed8fd1cea4ab94a54ab9442ffb, type: 2}
+  ListOfAnime:
+  - {fileID: 11400000, guid: 2fe011211adcefa4296ea3206b62bf90, type: 2}
+  ListSkinData: []

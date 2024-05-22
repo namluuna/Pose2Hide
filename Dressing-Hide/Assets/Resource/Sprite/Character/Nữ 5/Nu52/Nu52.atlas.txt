@@ -1,0 +1,20 @@
+
+Nu52.png
+size: 984,343
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2
+  rotate: true
+  xy: 2, 2
+  size: 339, 801
+  orig: 339, 801
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 805, 162
+  size: 179, 177
+  orig: 179, 177
+  offset: 0, 0
+  index: -1

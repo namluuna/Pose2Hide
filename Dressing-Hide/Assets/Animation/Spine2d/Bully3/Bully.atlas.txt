@@ -1,0 +1,125 @@
+
+Bully.png
+size: 1415,517
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bully/2049
+  rotate: false
+  xy: 2, 3
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Bully/ban chan 1
+  rotate: true
+  xy: 1322, 8
+  size: 132, 83
+  orig: 132, 83
+  offset: 0, 0
+  index: -1
+Bully/ban chan 2
+  rotate: false
+  xy: 1048, 330
+  size: 118, 79
+  orig: 118, 79
+  offset: 0, 0
+  index: -1
+Bully/ban tay 1
+  rotate: false
+  xy: 1332, 295
+  size: 66, 220
+  orig: 66, 220
+  offset: 0, 0
+  index: -1
+Bully/ban tay 2
+  rotate: false
+  xy: 1168, 297
+  size: 51, 112
+  orig: 51, 112
+  offset: 0, 0
+  index: -1
+Bully/chan duoi 1
+  rotate: true
+  xy: 516, 12
+  size: 75, 286
+  orig: 75, 286
+  offset: 0, 0
+  index: -1
+Bully/chan duoi 2
+  rotate: true
+  xy: 804, 11
+  size: 76, 257
+  orig: 76, 257
+  offset: 0, 0
+  index: -1
+Bully/chan tren 1
+  rotate: true
+  xy: 1048, 198
+  size: 95, 282
+  orig: 95, 282
+  offset: 0, 0
+  index: -1
+Bully/chan tren 2
+  rotate: true
+  xy: 1048, 411
+  size: 104, 282
+  orig: 104, 282
+  offset: 0, 0
+  index: -1
+Bully/heart 1
+  rotate: false
+  xy: 1086, 297
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+Bully/heart 2
+  rotate: false
+  xy: 1048, 295
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+Bully/tay duoi 1
+  rotate: true
+  xy: 1063, 2
+  size: 86, 162
+  orig: 86, 162
+  offset: 0, 0
+  index: -1
+Bully/tay duoi 2
+  rotate: false
+  xy: 1332, 142
+  size: 81, 151
+  orig: 81, 151
+  offset: 0, 0
+  index: -1
+Bully/tay tren 1
+  rotate: true
+  xy: 1048, 90
+  size: 106, 179
+  orig: 106, 179
+  offset: 0, 0
+  index: -1
+Bully/tay tren 2
+  rotate: false
+  xy: 1229, 28
+  size: 91, 168
+  orig: 91, 168
+  offset: 0, 0
+  index: -1
+Bully/than
+  rotate: true
+  xy: 516, 303
+  size: 212, 530
+  orig: 212, 530
+  offset: 0, 0
+  index: -1
+Bully/than 2
+  rotate: true
+  xy: 516, 89
+  size: 212, 530
+  orig: 212, 530
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,424 @@
+fileFormatVersion: 2
+guid: a66ad72e2fb5bda4aafa96a4e5842735
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GUI_(GUI) main screen-04_0
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 7403
+        width: 392
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0072d83f9b6f91e4883f537809701da9
+      internalID: 560614041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_(GUI) main screen-04_2
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 7463
+        width: 1468
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a343e0ce398ec164cb1fb3478ccd6c63
+      internalID: -1640759595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_(GUI) main screen-04_4
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 7350
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a3d8eadd2a5cc4286fc9e3392913b8
+      internalID: 1976390482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_(GUI) main screen-04_5
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 7350
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9930f1b8dd77f448aefad79e16570a
+      internalID: -1078692438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_(GUI) main screen-04_7
+      rect:
+        serializedVersion: 2
+        x: 4065
+        y: 7127
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96346fd571f6c1446a55516e04bed46c
+      internalID: 1588946956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_(GUI) main screen-04_14
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 5132
+        width: 507
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63f8fdccd956094db2d8c4ddd2b78eb
+      internalID: -1915617022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_(GUI) main screen-04_21
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 4125
+        width: 609
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea84a51881d12114b83886c785bb25d9
+      internalID: -1278130431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_(GUI) main screen-04_26
+      rect:
+        serializedVersion: 2
+        x: 3537
+        y: 3131
+        width: 660
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a53e8170bd7d04fa84da0a04860077
+      internalID: 2063190896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_(GUI) main screen-04_29
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1920
+        width: 1691
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95d68b5d18b9e54cbc6dab699f06855
+      internalID: 744380330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_(GUI) main screen-04_30
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1498
+        width: 1108
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b827f58d88b6dea4f9a04122ab8b5736
+      internalID: -498380850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUI_(GUI) main screen-04_39
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 869
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8233eed768c6b41b6d7a6c5c1703a0
+      internalID: -1931180145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GUI_(GUI) main screen-04_0: 560614041
+      GUI_(GUI) main screen-04_1: -1892817069
+      GUI_(GUI) main screen-04_10: -324693664
+      GUI_(GUI) main screen-04_11: -2077008840
+      GUI_(GUI) main screen-04_12: 1013229068
+      GUI_(GUI) main screen-04_13: -1750465183
+      GUI_(GUI) main screen-04_14: -1915617022
+      GUI_(GUI) main screen-04_15: -150140134
+      GUI_(GUI) main screen-04_16: -327366364
+      GUI_(GUI) main screen-04_17: -1709031290
+      GUI_(GUI) main screen-04_18: 1766793940
+      GUI_(GUI) main screen-04_19: 1931056865
+      GUI_(GUI) main screen-04_2: -1640759595
+      GUI_(GUI) main screen-04_20: 1500885946
+      GUI_(GUI) main screen-04_21: -1278130431
+      GUI_(GUI) main screen-04_22: 1490297876
+      GUI_(GUI) main screen-04_23: 1298653115
+      GUI_(GUI) main screen-04_24: 826441364
+      GUI_(GUI) main screen-04_25: 1549650876
+      GUI_(GUI) main screen-04_26: 2063190896
+      GUI_(GUI) main screen-04_27: 1731523135
+      GUI_(GUI) main screen-04_28: -796713620
+      GUI_(GUI) main screen-04_29: 744380330
+      GUI_(GUI) main screen-04_3: 532506107
+      GUI_(GUI) main screen-04_30: -498380850
+      GUI_(GUI) main screen-04_31: -988561512
+      GUI_(GUI) main screen-04_32: 657460854
+      GUI_(GUI) main screen-04_33: -458306690
+      GUI_(GUI) main screen-04_34: -706495767
+      GUI_(GUI) main screen-04_35: 423851852
+      GUI_(GUI) main screen-04_36: 430444488
+      GUI_(GUI) main screen-04_37: -1240872363
+      GUI_(GUI) main screen-04_38: 684276287
+      GUI_(GUI) main screen-04_39: -1931180145
+      GUI_(GUI) main screen-04_4: 1976390482
+      GUI_(GUI) main screen-04_5: -1078692438
+      GUI_(GUI) main screen-04_6: 765631519
+      GUI_(GUI) main screen-04_7: 1588946956
+      GUI_(GUI) main screen-04_8: -136500210
+      GUI_(GUI) main screen-04_9: 675728733
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

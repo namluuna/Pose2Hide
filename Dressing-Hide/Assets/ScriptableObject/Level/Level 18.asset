@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dae4a824da9080a4bbcf04be07dfab53, type: 3}
+  m_Name: Level 18
+  m_EditorClassIdentifier: 
+  Background:
+  - {fileID: 21300000, guid: ca67c4e381dc0c34cb3bf7f5373bc128, type: 3}
+  Background_Frame: []
+  Positon_Frame: []
+  pose: 5
+  time: 40
+  money: 150
+  Answers:
+  - _character: Female 7
+    _positon: {x: -0.82, y: -4.79, z: 0}
+    ListOfPose: 020000000000000001000000
+    _pose: 0
+  - _character: Female 51
+    _positon: {x: 5.6, y: -14.41, z: 0}
+    ListOfPose: 020000000400000001000000060000000700000009000000
+    _pose: 1
+  - _character: Female 4
+    _positon: {x: -7.06, y: -14.67, z: 0}
+    ListOfPose: 020000000300000004000000080000000900000007000000
+    _pose: 2
+  - _character: AnSang
+    _positon: {x: 5.7, y: -7.18, z: 0}
+    ListOfPose: 
+    _pose: 0
+  - _character: DiaCau
+    _positon: {x: -0.72, y: -11.91, z: 0}
+    ListOfPose: 
+    _pose: 0
+  - _character: Keo
+    _positon: {x: -0.46, y: -3.43, z: 0}
+    ListOfPose: 
+    _pose: 0
+  Skin: 000000000000000001000000
+  MapLevel: {fileID: 1654731219691348003, guid: de318433877fddc45ad23ef52b552209, type: 3}
+  BossLevel: {fileID: 8123021577759227860, guid: 66f1ef80476863d498bfc00d1ce18fb3, type: 3}

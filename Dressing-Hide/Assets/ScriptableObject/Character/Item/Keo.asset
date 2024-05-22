@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4347fb7080bb7f64bbbc9858dabdec24, type: 3}
+  m_Name: Keo
+  m_EditorClassIdentifier: 
+  CharacterId: Keo
+  ListOfAnswer:
+  - {fileID: 11400000, guid: f3fc6ad99af99e1459e9c1630eccaf8f, type: 2}
+  ListOfAnime:
+  - {fileID: 11400000, guid: d5c98b81a6af7924eb8a02a4bfe5e0a8, type: 2}
+  ListSkinData: []

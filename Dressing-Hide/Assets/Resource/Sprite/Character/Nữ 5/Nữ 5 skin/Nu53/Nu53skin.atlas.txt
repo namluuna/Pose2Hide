@@ -1,0 +1,27 @@
+
+Nu53skin.png
+size: 638,494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 251, 458
+  orig: 305, 825
+  offset: 54, 367
+  index: -1
+2
+  rotate: true
+  xy: 2, 255
+  size: 237, 524
+  orig: 305, 825
+  offset: 32, 0
+  index: -1
+3
+  rotate: false
+  xy: 528, 65
+  size: 108, 427
+  orig: 305, 825
+  offset: 0, 359
+  index: -1

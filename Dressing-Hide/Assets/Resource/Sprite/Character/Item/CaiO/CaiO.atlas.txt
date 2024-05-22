@@ -1,0 +1,13 @@
+
+CaiO.png
+size: 327,351
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ô
+  rotate: false
+  xy: 2, 2
+  size: 323, 347
+  orig: 323, 347
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1141903dc95c5f64fbb27b28a708a3cc, type: 3}
+  m_Name: Level 5
+  m_EditorClassIdentifier: 
+  pose: 0
+  Answers:
+  - _listAnswer:
+    - _character: Female 5
+      _pose: 3
+    - _character: Male 4
+      _pose: 4
+    - _character: Male 5
+      _pose: 0
+  - _listAnswer:
+    - _character: Male 4
+      _pose: 3
+    - _character: Female 5
+      _pose: 1
+    - _character: Male 5
+      _pose: 1
+  - _listAnswer:
+    - _character: Male 5
+      _pose: 2
+    - _character: Male 4
+      _pose: 2
+    - _character: Female 5
+      _pose: 0
+  - _listAnswer:
+    - _character: Male 5
+      _pose: 3
+    - _character: Female 5
+      _pose: 2
+    - _character: Male 4
+      _pose: 0
+  Characters:
+  - _character: Female 5
+    _pose: 00000000010000000200000003000000
+  - _character: Male 5
+    _pose: 00000000010000000200000003000000
+  - _character: Male 4
+    _pose: 00000000020000000300000004000000
+  Walls:
+    Sprites:
+    - {fileID: 21300000, guid: 857fc01fab8a5ba44a2ceb71c5632a9f, type: 3}
+    - {fileID: 21300000, guid: c2a32d10316138a46a21297533d3396b, type: 3}
+    - {fileID: 21300000, guid: 39f98343786b760468ca7cb3c6f3ebd2, type: 3}
+    - {fileID: 21300000, guid: 47af504100794524dbab30f61730229f, type: 3}
+    Anime: 0f0000000f0000000f0000000f000000
+  money: 100

@@ -1,0 +1,13 @@
+
+Vit.png
+size: 401,283
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vịt
+  rotate: false
+  xy: 2, 2
+  size: 397, 279
+  orig: 397, 279
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+NU 7_1.png
+size: 1081,386
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+7_1 dress
+  rotate: true
+  xy: 938, 160
+  size: 224, 141
+  orig: 225, 142
+  offset: 0, 0
+  index: -1
+7_1 hair
+  rotate: false
+  xy: 703, 2
+  size: 233, 382
+  orig: 234, 384
+  offset: 0, 1
+  index: -1
+7_1 khan do
+  rotate: true
+  xy: 938, 46
+  size: 29, 80
+  orig: 29, 80
+  offset: 0, 0
+  index: -1
+7_1 tayao
+  rotate: true
+  xy: 938, 77
+  size: 81, 62
+  orig: 82, 64
+  offset: 0, 1
+  index: -1
+Nu7_1
+  rotate: true
+  xy: 2, 27
+  size: 357, 699
+  orig: 358, 701
+  offset: 0, 1
+  index: -1

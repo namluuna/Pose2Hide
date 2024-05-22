@@ -1,0 +1,41 @@
+
+NU 4-0.png
+size: 1081,245
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B1/Layer 4
+  rotate: true
+  xy: 830, 96
+  size: 147, 133
+  orig: 147, 134
+  offset: 0, 0
+  index: -1
+B1/Layer 5
+  rotate: false
+  xy: 965, 98
+  size: 114, 145
+  orig: 114, 151
+  offset: 0, 0
+  index: -1
+B1/tai 1
+  rotate: false
+  xy: 830, 21
+  size: 84, 73
+  orig: 84, 73
+  offset: 0, 0
+  index: -1
+B1/tai 2
+  rotate: true
+  xy: 965, 7
+  size: 89, 112
+  orig: 89, 113
+  offset: 0, 0
+  index: -1
+B1/than
+  rotate: true
+  xy: 2, 2
+  size: 241, 826
+  orig: 241, 834
+  offset: 0, 4
+  index: -1

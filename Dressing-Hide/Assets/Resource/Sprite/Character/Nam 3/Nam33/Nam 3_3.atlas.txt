@@ -1,0 +1,34 @@
+
+Nam 3_3.png
+size: 887,468
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Nam 3_3
+  rotate: true
+  xy: 2, 2
+  size: 464, 551
+  orig: 464, 551
+  offset: 0, 0
+  index: -1
+Nam 3_3 Copy
+  rotate: true
+  xy: 555, 16
+  size: 219, 167
+  orig: 219, 167
+  offset: 0, 0
+  index: -1
+Nam 3_3 Copy 2
+  rotate: true
+  xy: 724, 51
+  size: 184, 134
+  orig: 184, 135
+  offset: 0, 0
+  index: -1
+Nam 3_3 Copy 3
+  rotate: true
+  xy: 555, 237
+  size: 229, 330
+  orig: 230, 332
+  offset: 1, 1
+  index: -1

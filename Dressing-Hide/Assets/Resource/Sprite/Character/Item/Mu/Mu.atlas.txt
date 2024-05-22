@@ -1,0 +1,13 @@
+
+Mu.png
+size: 198,257
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mũ
+  rotate: false
+  xy: 2, 2
+  size: 194, 253
+  orig: 194, 253
+  offset: 0, 0
+  index: -1
